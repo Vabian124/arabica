@@ -1,0 +1,162 @@
+[
+  {
+    "letter": "ب",
+    "transcription": "b",
+    "example": "بابٌ – deur"
+  },
+  {
+    "letter": "ت",
+    "transcription": "t",
+    "example": "تاجٌ – kroon"
+  },
+  {
+    "letter": "ط",
+    "transcription": "ṭ",
+    "example": "طِفْلٌ – kind"
+  },
+  {
+    "letter": "ض",
+    "transcription": "ḍ",
+    "example": "ضِرْسٌ – kies"
+  },
+  {
+    "letter": "ظ",
+    "transcription": "ẓ",
+    "example": "ظُهْرٌ – middag"
+  },
+  {
+    "letter": "ث",
+    "transcription": "t",
+    "example": "ثَلْجٌ – sneeuw"
+  },
+  {
+    "letter": "ع",
+    "transcription": "ع",
+    "example": "عَيْنٌ – oog"
+  },
+  {
+    "letter": "ج",
+    "transcription": "j",
+    "example": "جَمَلٌ -kameel"
+  },
+  {
+    "letter": "غ",
+    "transcription": "ġ",
+    "example": "غَرْبٌ – westen"
+  },
+  {
+    "letter": "ح",
+    "transcription": "Ḥ",
+    "example": "حُبٌّ – liefde"
+  },
+  {
+    "letter": "ف",
+    "transcription": "f",
+    "example": "فارِسٌ – ruiter"
+  },
+  {
+    "letter": "خ",
+    "transcription": "kh/x",
+    "example": "خَبَرٌ – bericht"
+  },
+  {
+    "letter": "ق",
+    "transcription": "q",
+    "example": "قَلْبٌ – hart"
+  },
+  {
+    "letter": "د",
+    "transcription": "d",
+    "example": "دُبٌّ – beer"
+  },
+  {
+    "letter": "ك",
+    "transcription": "k",
+    "example": "كَلْبٌ – hond"
+  },
+  {
+    "letter": "ذ",
+    "transcription": "d",
+    "example": "ذَهَبٌ – goud"
+  },
+  {
+    "letter": "ل",
+    "transcription": "l",
+    "example": "لَيْلٌ – nacht"
+  },
+  {
+    "letter": "ر",
+    "transcription": "r",
+    "example": "رَأْسٌ – hoofd"
+  },
+  {
+    "letter": "م",
+    "transcription": "m",
+    "example": "مَدِينَةٌ – stad"
+  },
+  {
+    "letter": "ز",
+    "transcription": "z",
+    "example": "زَيْتونٌ – olijf"
+  },
+  {
+    "letter": "ن",
+    "transcription": "n",
+    "example": "نَوْمٌ – slaap"
+  },
+  {
+    "letter": "س",
+    "transcription": "s",
+    "example": "سُوقٌ – markt"
+  },
+  {
+    "letter": "ه",
+    "transcription": "h",
+    "example": "هُوَ – hij"
+  },
+  {
+    "letter": "ش",
+    "transcription": "š",
+    "example": "شَمْسٌ – zon"
+  },
+  {
+    "letter": "و",
+    "transcription": "w/ū",
+    "example": "وَلَدٌ – jongen"
+  },
+  {
+    "letter": "ص",
+    "transcription": "ṣ",
+    "example": "صَديقٌ -vriend"
+  },
+  {
+    "letter": "ي",
+    "transcription": "y",
+    "example": "يَدٌ – hand"
+  },
+  {
+    "letter": "ى",
+    "transcription": "ī / ā",
+    "example": "أَنا – ik"
+  },
+  {
+    "letter": "ا",
+    "transcription": "ā",
+    "example": "أَنا – ik"
+  },
+  {
+    "letter": "أَ",
+    "transcription": "‘a",
+    "example": "أَنا – ik"
+  },
+  {
+    "letter": "أُ",
+    "transcription": "‘u",
+    "example": "أَنا – ik"
+  },
+  {
+    "letter": "إ",
+    "transcription": "‘i",
+    "example": "أَنا – ik"
+  }
+]

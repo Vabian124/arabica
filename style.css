@@ -1,0 +1,12 @@
+nav ul {
+    list-style-type: none;
+    display: inline;
+    a{
+    margin-left: 10px;
+    font-size: 30px;
+    text-decoration: underline 4px blue;
+    text-align: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+
+}}

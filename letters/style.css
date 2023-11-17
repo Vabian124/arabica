@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+  }
+  
+  #letterDisplay {
+    font-size: 3em;
+    margin-bottom: 1em;
+    line-height: 1.2em;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+  }
+  
+  #loggedCorrectLetters {
+    font-size: 30px;
+  }
+
+  #loggedWrongLetters {
+    font-size: 30px;
+    padding-left: 2em;
+  }
+  
+  #optionsContainer {
+    font-size: 2em;
+    margin-bottom: 1em;
+    line-height: 1.2em;
+  }
+  
+  #scoreDisplay {
+    font-weight: bold;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+  }
+  
+  #resetButton {
+    padding: 0.5em 1em;
+    height: 50px;
+    font-size: 1em;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: inline;
+  }
+  
+  nav ul a {
+    margin-left: 10px;
+    font-size: 30px;
+    text-decoration: underline 4px blue;
+    text-align: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+  }
+  
